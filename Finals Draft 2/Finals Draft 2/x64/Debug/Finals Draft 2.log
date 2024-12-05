@@ -1,0 +1,6 @@
+﻿  Finals Draft 2.cpp
+  Organizations.cpp
+  Students.cpp
+  Generating Code...
+C:\Users\Jose\Documents\JEC\.vscode\Finals Draft 2\Students.cpp(75,1): warning C4715: 'Students::SearchingLoop': not all control paths return a value
+  Finals Draft 2.vcxproj -> C:\Users\Jose\Documents\JEC\.vscode\Finals Draft 2\x64\Debug\Finals Draft 2.exe
